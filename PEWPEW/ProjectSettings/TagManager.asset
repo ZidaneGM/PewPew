@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - inimigo
+  - costa
+  - frente
+  - boca
+  - lanca
+  - player
+  - cima
+  - baixo
+  - gameOver
+  - limitSpawn
+  - powerUp
+  - boca 2
+  - lancamae
+  - inimigoB
+  - chefe
+  - explosao
+  - textVidaChefe
+  - skillExplosao
+  - tiroInimigo
+  - pistola
+  - data
+  - textVidaChefe2
+  - ATField
+  - lifeBar
+  - avisoBoss
+  - spawnBoss
+  - spawn1
+  - spawn3
+  - spawn2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
